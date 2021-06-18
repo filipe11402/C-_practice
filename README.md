@@ -1,2 +1,2 @@
-# C-_practice
+# C#_practice
 Some exercises with C#
